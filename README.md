@@ -1,74 +1,60 @@
-# project1
+# EstateProject - Emlak Sitesi Staj Projesi (Vue.js Front-End)
 
-## Build Setup
+Bu depo, yaklaşık **3 yıl önce** stajım sırasında **Vue.js** kullanılarak geliştirdiğim bir **Emlak Listeleme/Arama Uygulaması**nın **front-end** (ön yüz) kaynak kodunu içerir. Proje, staj dönemi öğrenimlerimi pekiştirmek ve **Vue.js** çatısını kullanarak temel bir emlak listeleme arayüzü oluşturmak amacıyla hazırlanmıştır.
+
+Proje, emlak verilerini gösterme, filtreleme ve detaylı ilan sayfaları gibi temel işlevleri kapsar. Eski bir versiyon olsa da, **Vue.js'e giriş** yapmak veya emlak dikeyinde temel bileşen yapısını incelemek isteyenler için bir referans noktası olabilir.
+
+---
+
+## 🚀 Projeyi Çalıştırma Rehberi
+
+Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları sırasıyla takip etmeniz gerekir.
+
+### 1. Gereksinimler
+
+* **Node.js**: (Tavsiye edilen sürüm: **[Örn: Node.js 16.x veya 18.x LTS sürümü]**)
+* **npm** (Node Package Manager) veya **yarn**
+
+### 2. Kurulum Adımları
+
+#### a. Depoyu Klonlama
+
+Öncelikle bu depoyu klonlayın ve proje klasörüne girin:
 
 ```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-
-
-
-# "axios": "^1.4.0"*
-
+git clone https://github.com/Merenylmz/EstateProjectFrontend.git
+cd projedosyasi
+npm install
+npm run dev
 ```
+ English
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+# EstateProject - Real Estate Website Internship Project (Vue.js Front-End)
 
-## Special Directories
+This repository contains the **front-end** source code for a **Real Estate Listing/Search Application** that I developed using **Vue.js** approximately **3 years ago** during my internship. The project was created to reinforce my learning during the internship and to build a basic real estate listing interface using the **Vue.js** framework.
 
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
+The project covers core functionalities such as displaying real estate data, filtering, and detailed listing pages. Although this is an older version, it can serve as a reference point for anyone looking to **get started with Vue.js** or examine the basic component structure in the real estate domain.
 
-### `assets`
+---
 
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
+## 🚀 Guide to Running the Project
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
+Please follow the steps below in order to successfully run this project in your local environment.
 
-### `components`
+### 1. Prerequisites
 
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
+* **Node.js**: (Recommended version: **[E.g., Node.js 16.x or 18.x LTS version]**)
+* **npm** (Node Package Manager) or **yarn**
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
+### 2. Installation Steps
 
-### `layouts`
+#### a. Clone the Repository and Run the Project
 
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
+First, clone this repository to your local machine, navigate into the project folder, install the dependencies, and start the application:
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
-
-### `pages`
-
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+```bash
+git clone https://github.com/Merenylmz/EstateProjectFrontend.git
+cd projectfolder
+npm install
+npm run dev
+```
