@@ -1,6 +1,6 @@
 # EstateProject - Emlak Sitesi Staj Projesi (Vue.js Front-End)
 
-Bu depo, yaklaşık **3 yıl önce** stajım sırasında **Vue.js** kullanılarak geliştirdiğim bir **Emlak Listeleme/Arama Uygulaması**nın **front-end** (ön yüz) kaynak kodunu içerir. Proje, staj dönemi öğrenimlerimi pekiştirmek ve **Vue.js** çatısını kullanarak temel bir emlak listeleme arayüzü oluşturmak amacıyla hazırlanmıştır.
+Bu depo, yaklaşık 2022 stajım sırasında **Vue.js** kullanılarak geliştirdiğim bir **Emlak Listeleme/Arama Uygulaması**nın **front-end** (ön yüz) kaynak kodunu içerir. Proje, staj dönemi öğrenimlerimi pekiştirmek ve **Vue.js** çatısını kullanarak temel bir emlak listeleme arayüzü oluşturmak amacıyla hazırlanmıştır.
 
 Proje, emlak verilerini gösterme, filtreleme ve detaylı ilan sayfaları gibi temel işlevleri kapsar. Eski bir versiyon olsa da, **Vue.js'e giriş** yapmak veya emlak dikeyinde temel bileşen yapısını incelemek isteyenler için bir referans noktası olabilir.
 
@@ -31,7 +31,7 @@ npm run dev
 
 # EstateProject - Real Estate Website Internship Project (Vue.js Front-End)
 
-This repository contains the **front-end** source code for a **Real Estate Listing/Search Application** that I developed using **Vue.js** approximately **3 years ago** during my internship. The project was created to reinforce my learning during the internship and to build a basic real estate listing interface using the **Vue.js** framework.
+This repository contains the **front-end** source code for a **Real Estate Listing/Search Application** that I developed using **Vue.js** approximately 2022 during my internship. The project was created to reinforce my learning during the internship and to build a basic real estate listing interface using the **Vue.js** framework.
 
 The project covers core functionalities such as displaying real estate data, filtering, and detailed listing pages. Although this is an older version, it can serve as a reference point for anyone looking to **get started with Vue.js** or examine the basic component structure in the real estate domain.
 
